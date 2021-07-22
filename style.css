@@ -1,0 +1,15 @@
+body
+{
+    font-family: 'Otomanopee One', sans-serif;
+    background:gainsboro;
+    font-weight: bold;
+}
+.header_div
+{
+    background: white;
+    color: red;
+}
+.header_div img
+{
+    width: 100px;
+}
